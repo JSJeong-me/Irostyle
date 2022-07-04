@@ -1,0 +1,63 @@
+{
+	"company_id": "Yesfoot",
+	"device_id": "Getta-0006",
+	"country_code": "82",
+	"tel": "",
+	"date": "20220603105724",
+
+	"footR":
+	{
+		"foot_length": 217.369,
+		"foot_width": 83.0836,
+		"ball_distance": 85.4831,
+		"ball_height": 30.6171,
+		"ball_girth": 207.373,
+		"instep_height": 46.6368,
+		"instep_girth": 207.505,
+		"big_toe_height": 17.4537,
+		"heel_height": 19.0778,
+		"heel_width": 54.5142,
+		"inner_ankle_bone_height": 63.4724,
+		"outer_ankle_bone_height": 51.6823,
+		"ankle_height": 61.0565,
+		"ankle_hor_girth": 222.856,
+		"ankle_ver_girth": 222.653,
+		"ankle_length": 87.772,
+		"ankle_width": 57.818,
+		"heel_to_inner_ball_distance": 163.747,
+		"heel_to_outer_ball_distance": 144.706,
+		"heel_to_ankle_hor_distance": 94.4886,
+		"heel_to_ankle_girth": 275.034,
+		"heel_to_instep_girth": 308.339,
+		"big_toe_angle": 3.69139,
+		"arch_height": 4.89851
+	},
+
+	"footL":
+	{
+		"foot_length": 217.854,
+		"foot_width": 83.2336,
+		"ball_distance": 85.1983,
+		"ball_height": 30.6349,
+		"ball_girth": 206.703,
+		"instep_height": 47.0831,
+		"instep_girth": 205.134,
+		"big_toe_height": 17.897,
+		"heel_height": 16.7658,
+		"heel_width": 54.6591,
+		"inner_ankle_bone_height": 62.9838,
+		"outer_ankle_bone_height": 56.1694,
+		"ankle_height": 60.9197,
+		"ankle_hor_girth": 220.649,
+		"ankle_ver_girth": 219.333,
+		"ankle_length": 86.9369,
+		"ankle_width": 56.9787,
+		"heel_to_inner_ball_distance": 164.195,
+		"heel_to_outer_ball_distance": 146.896,
+		"heel_to_ankle_hor_distance": 94.8628,
+		"heel_to_ankle_girth": 276.552,
+		"heel_to_instep_girth": 309.43,
+		"big_toe_angle": 8.1301,
+		"arch_height": 5.50545
+	}
+}
