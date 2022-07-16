@@ -2,7 +2,8 @@
 
 ###  수업일지
 
-    2022-07-19 Data Read & Featuring
+    2022-07-19 Data Read & Featuring  2,825개
+    
 
 
 ### Irostyle shoe featuring
