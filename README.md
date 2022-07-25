@@ -3,7 +3,7 @@
 ###  수업일지
 
     2022-07-19 Data Read & Featuring  2,825개
-    2022-07-26 Data Read & Tel  2,823개
+    2022-07-26 Read Date & Tel  2,823개
     
 
 
